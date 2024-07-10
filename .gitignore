@@ -1,4 +1,4 @@
 *env
 *.zip
 prediction_history.json
-__pycache__
+__pycache__/
